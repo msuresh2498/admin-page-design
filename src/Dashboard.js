@@ -1,10 +1,9 @@
 import Sidebar from "./sidebar";
 import Navbarcontainer from "./navbar";
-import { Breadcrumbs, Button, Card, CardContent, CardMedia, LinearProgress, Link, Paper, Typography } from "@mui/material";
+import { Card, CardContent, CardMedia, LinearProgress, Link, Typography } from "@mui/material";
 import { BsFillCalendarFill } from "react-icons/bs";
 import DownloadIcon from '@mui/icons-material/Download';
 import { FaDollarSign, FaClipboardList, FaComments } from "react-icons/fa";
-import Chart from 'chart.js/auto'
 import { Linechart, PieChart } from "./charts";
 import ProgressBar from 'react-bootstrap/ProgressBar';
 
